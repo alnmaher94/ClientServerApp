@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Networks</name>
+=======
+	<name>Networking</name>
+>>>>>>> c3836b4e891083c444dfa17bf645d42af3699d07
 	<comment></comment>
 	<projects>
 	</projects>
