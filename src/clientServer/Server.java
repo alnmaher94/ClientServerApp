@@ -49,6 +49,7 @@ public class Server {
 	        catch (IOException e) 
 	        {
 	            System.err.println("Could not close server socket. " + e.getMessage());
+	            
 	        }
 		
 		

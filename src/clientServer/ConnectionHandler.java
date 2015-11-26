@@ -45,6 +45,7 @@ public class ConnectionHandler {
 			this.closeSocket();
 			System.out.println("Client Socket closed");
 			return false;
+			
 		}
 		
 		System.out.println("Received command ( " + s + " )");
